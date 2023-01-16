@@ -6,8 +6,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Tech enthusiast
+        <p>Tech Enthusiast
+             👋 Hi, I’m Duvall Pinkney @Dpinkney001
+             👀 I’m interested in most things in technology. Electronics, programming, VR/AR, AI/ML, Robotics, Research, Automotive.
+            🌱 I’m currently learning Computer/Electrical engineering technology.
+            💞️ I’m looking to collaborate on a few projects soon.
+            📫 How to reach me on linkedin or email me at Duvall.pinkney@gmail.com
         </p>
         <a
           className="App-link"
